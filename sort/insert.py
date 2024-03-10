@@ -9,4 +9,4 @@ def insert_sort(numbers):
 
 numbers = [5, 7, 3, 8, 1, 4, 6, 2]
 insert_sort(numbers)
-print(numbers)
+print(f"\n{numbers}")

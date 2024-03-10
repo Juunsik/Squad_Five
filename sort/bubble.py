@@ -8,4 +8,4 @@ def bubble_sort(numbers):
 
 numbers = [5, 7, 3, 8, 1, 4, 6, 2]
 bubble_sort(numbers)
-print(numbers)
+print(f'\n{numbers}')
